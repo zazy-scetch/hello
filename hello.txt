@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Новая строка
 Hello, World!
 Hello, Git!!!
+=======
+Hello, World!
+hello, git!
+>>>>>>> master
