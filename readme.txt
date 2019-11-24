@@ -2,3 +2,4 @@
 другая строка
 
 Hello,git!
+hello.squash!
